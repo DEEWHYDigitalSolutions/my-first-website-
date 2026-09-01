@@ -1,2 +1,185 @@
-DEEWHY Digital Solutions 
-Welcome to DEEWHY website 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>DEEWHY DIGITAL SOLUTIONS</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav class="navbar">
+
+            <div class="logo">
+                DEEWHY<span>.</span>
+            </div>
+
+            <div class="nav-links">
+                <a href="#home">Home</a>
+                <a href="#services">Services</a>
+                <a href="#about">About</a>
+                <a href="#contact">Contact</a>
+            </div>
+
+        </nav>
+    </header>
+
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="welcome">
+                WELCOME TO
+            </p>
+
+            <h1>
+                DEEWHY DIGITAL SOLUTIONS
+            </h1>
+
+            <p class="hero-text">
+                Professional digital solutions designed to help
+                businesses build their brand, reach more customers
+                and grow online.
+            </p>
+
+            <div class="buttons">
+                <a href="#services" class="btn primary">
+                    Our Services
+                </a>
+
+                <a href="#contact" class="btn secondary">
+                    Contact Us
+                </a>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Services -->
+    <section id="services" class="section">
+
+        <h2>Our Services</h2>
+
+        <p class="section-intro">
+            We provide practical digital solutions for individuals,
+            entrepreneurs and businesses.
+        </p>
+
+        <div class="services">
+
+            <div class="service-card">
+                <h3>Website Design</h3>
+                <p>
+                    Modern and responsive websites designed
+                    for businesses and personal brands.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Digital Marketing</h3>
+                <p>
+                    Strategic digital marketing solutions that
+                    help businesses reach their target audience.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Social Media Promotion</h3>
+                <p>
+                    Promote your products and services across
+                    social media platforms and reach more customers.
+                </p>
+            </div>
+
+            <div class="service-card">
+                <h3>Graphic Design</h3>
+                <p>
+                    Professional flyers, business cards, logos
+                    and promotional designs for your brand.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about" class="about">
+
+        <div class="about-content">
+
+            <h2>About DEEWHY DIGITAL SOLUTIONS</h2>
+
+            <p>
+                DEEWHY DIGITAL SOLUTIONS is a digital service brand
+                focused on helping individuals and businesses establish
+                a strong and professional presence online.
+            </p>
+
+            <p>
+                From website development and graphic design to digital
+                marketing and online promotion, our goal is to provide
+                reliable solutions that help businesses grow.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="section contact">
+
+        <h2>Let's Work Together</h2>
+
+        <p>
+            Ready to take your business to the next level?
+            Contact DEEWHY DIGITAL SOLUTIONS today.
+        </p>
+
+        <div class="contact-info">
+
+            <p>
+                <strong>Phone:</strong>
+                08032923465
+            </p>
+
+            <p>
+                <strong>Email:</strong>
+                matthewidowupromoter@gmail.com
+            </p>
+
+        </div>
+
+        <a
+            href="https://wa.me/2348032923465"
+            class="btn whatsapp"
+        >
+            Chat With Us on WhatsApp
+        </a>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © 2026 DEEWHY DIGITAL SOLUTIONS.
+            All Rights Reserved.
+        </p>
+
+    </footer>
+
+</body>
+</html>
