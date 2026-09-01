@@ -34,12 +34,12 @@ header {
     justify-content: space-between;
     align-items: center;
 }
-
-.logo {
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
+.logo img {
+    width: 150px;
+    height: auto;
+    display: block;
 }
+
 
 .logo span {
     color: #00bfff;
